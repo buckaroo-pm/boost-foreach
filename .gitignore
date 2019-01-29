@@ -4,3 +4,4 @@ buck-out
 .buckconfig.d
 buckaroo_macros.bzl
 buckaroo
+buckaroo-linux
