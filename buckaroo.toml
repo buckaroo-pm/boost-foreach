@@ -1,0 +1,33 @@
+targets = ["//:foreach"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.69.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.69.0"
